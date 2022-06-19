@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/arrow_right.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/auth_logo_corner.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/btn_shadow.xml" value="0.2431640625" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/drop.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/gradient_bg.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/ic_circle_chevron_right_solid.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/ic_facebook_f_brands.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/ic_google_brands.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/input_rounded.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/radius_auth_top.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/radius_button.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/drawable/radius_button_outline.xml" value="0.13125" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/layout-v23/fragment_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/layout-v31/fragment_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/layout/fragment_login.xml" value="0.16" />
+        <entry key="..\:/Users/ketem/AndroidStudioProjects/Dogif/app/src/main/res/layout/fragment_welcome.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
